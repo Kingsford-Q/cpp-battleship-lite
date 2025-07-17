@@ -24,4 +24,3 @@ A simple terminal-based game where the player tries to hit 4 hidden ships on a 4
 - Add score or turn limits
 - Better visuals (e.g., draw the grid)
 
-## Example
